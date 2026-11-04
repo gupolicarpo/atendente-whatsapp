@@ -29,8 +29,7 @@ Você vai precisar de:
 5. **Step 3. Business verification** é opcional (2–10 dias úteis). Pode pular: o bot funciona sem ela.
 
 ### 2. Coloque o atendente no ar (Railway)
-<!-- TODO: o link final do template é definido depois de publicar o template no Railway. -->
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/gupolicarpo/atendente-whatsapp)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/gLNtuM)
 
 1. Clique no botão acima e entre no Railway. O app vai rodar na **sua** conta e no **seu** servidor.
 2. Preencha as variáveis:
